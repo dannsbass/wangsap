@@ -1,0 +1,33 @@
+{
+  "name": "whatsapp-bot",
+  "version": "0.0.1",
+  "description": "whatsapp-bot",
+  "main": "index.js",
+  "repository": "false",
+  "author": "Hazn",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "emoji-api": "^2.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^19.0.0",
+    "moment-timezone": "^0.5.34",
+    "mongodb": "^4.3.1",
+    "node-fetch": "2.6.2",
+    "ora": "^6.0.1",
+    "pm2": "^5.1.2",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "sharp": "^0.29.3",
+    "spinnies": "^0.5.1",
+    "wa-sticker-formatter": "^4.2.0",
+    "yt-search": "^2.10.3"
+  }
+}
